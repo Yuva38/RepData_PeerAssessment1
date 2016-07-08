@@ -216,8 +216,7 @@ ggplot(data_weekdays, aes(x=interval, y=steps)) +
         labs(x="Interval", y="Number of steps") +
         theme_bw()
 ```
-
-Week day has one major peak around 1000 interval but weekend has more peaks scattered thorough out the interval.It seems like people are active through out the Weekend and not in a specific time as in weekdays 
+ Week day has one major peak around 1000 interval but weekend has more peaks scattered thorough out the interval.It seems like people are active through out the Weekend and not in a specific time as in weekdays 
 
 
 
